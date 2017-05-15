@@ -24,6 +24,7 @@ public class FindGDCAndLCM {
 				break;
 			}
 		} while (true);
+		sc.close();
 		
 	}
 	public static int findGDC(int x, int y)
